@@ -52,7 +52,7 @@ Explored return behavior by category, region, and customer type.
 
 - **Email:** [AnalyticaPROLLC@gmail.com](mailto:AnalyticaPROLLC@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/analyticapro](https://www.linkedin.com/in/analyticapro/)  
-- **Website:** [analyticaprollc.github.io](https://analyticaprollc.github.io/analyticapro.github.io/)  
+- **Website:** [analyticaprollc.github.io](https://analyticaprollc.github.io/)  
 - **GitHub:** [github.com/analyticaprollc](https://github.com/analyticaprollc)
 
 ---
