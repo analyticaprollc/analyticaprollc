@@ -1,60 +1,65 @@
 # 👋 Hi, I'm KIT VINE
 
-**Business Intelligence Analyst** | Passionate about Data Storytelling | Helping Businesses Make Smarter Decisions  
+**E-Commerce Business Intelligence Analyst** | Tableau-Certified | Driving Growth with Data  
 📍 Based in Pinellas Park, FL
 
 ---
 
 ## 🚀 About Me
 
-I'm a results-driven Business Intelligence Analyst with a background in product management and quality control. I love turning data into meaningful insights that drive smarter strategies and better outcomes.
+I'm a Tableau-certified Business Intelligence Analyst with 9+ years of experience delivering data-driven growth across e-commerce, retail, and manufacturing sectors. I specialize in transforming messy datasets into clear insights that increase revenue, improve efficiency, and reduce costs.
 
-I’m currently expanding my skill set through the Business Intelligence Analytics program at TripleTen.
-
----
-
-## 🛠 Skills
-
-- **Languages:** Python, SQL  
-- **Tools & Platforms:** Power BI, Tableau, Google Sheets, Google Analytics  
-- **Specialties:** Data Visualization, ROI & Financial Modeling, Dashboarding, Customer & Product Analytics
+Currently focused on dynamic pricing, predictive analytics, and customer segmentation in fast-paced e-commerce environments. Fluent in English, Russian, and Chinese — bringing global perspective to data strategy.
 
 ---
 
-## 📊 Projects
+## 💡 Core Skills
 
-### 🔗 [Zomato Restaurant Revenue Analysis]
-**Tools:** Tableau, Excel  
-Analyzed 500+ restaurants to uncover key revenue drivers.  
-- Top 10% of restaurants (rating ≥4.2) generated 65%+ of revenue  
-- Identified optimal menu size: 30–50 items  
-- Recommended targeted ads in urban areas for a +15% revenue increase  
-
-👉 [View Dashboard ›](https://public.tableau.com/views/RestaurantAnalysis_17482960681800/Step5MenuSizevsRevenue)
+- **Languages & Analysis:** SQL (CTEs, Window Functions), Python (Pandas, NumPy, scikit-learn), BigQuery, Snowflake  
+- **BI Tools:** Tableau, Power BI, Looker, Google Analytics (GA4)  
+- **E-Commerce Analytics:** Shopify/Magento, Amazon FBA, Dynamic Pricing, LTV & RFM Modeling  
+- **Strengths:** Data Visualization, Predictive Modeling, KPI Dashboards, Global Market Analytics  
+- **Languages:** Fluent in English 🇺🇸, Russian 🇷🇺, Chinese 🇨🇳  
 
 ---
 
-### 🔗 [Superstore Returns Analysis]
+## 📊 Selected Projects
+
+### 🔗 [Restaurant Revenue Optimization (Zomato Data)](https://github.com/kitvine/zomato)  
+**Tools:** SQL, Python, Tableau  
+- Analyzed 500K+ transactions to identify top revenue drivers (10% of restaurants → 65% of revenue)  
+- Built geo-targeting clustering model improving conversion by 15%  
+- Recommended ideal menu size and pricing for urban growth  
+
+### 🔗 [Predictive Returns Analysis (Retail Supply Chain)](https://github.com/kitvine/returns)  
+**Tools:** Python (scikit-learn), Power BI  
+- ML model predicted product return risk using supplier quality data  
+- Supplier scorecard reduced defect rate by 12% ($300K annual savings)
+
+### 🔗 [Superstore Returns Analysis](https://public.tableau.com/views/Superstorelast/Story1)  
 **Tools:** Tableau, SQL  
-Explored return behavior by category, region, and customer type.  
-- Highlighted top return categories (>8%) and repeat returners  
-- Proposed quality control improvements and retention outreach  
-
-👉 [View Storyboard ›](https://public.tableau.com/views/Superstorelast/Story1)
+- Identified high-return categories and repeat customers  
+- Proposed retention strategies and process improvements
 
 ---
 
-🚧 I'm working on some exciting new projects — they'll be added here soon!
+## 🏢 Experience
+
+**Madico** – Senior Data Analyst  
+**Ohm Appliance Experts** – BI Strategist  
+**AnalyticsPro LLC** – Founder, Amazon FBA Analytics
+
+(Full experience on [LinkedIn](https://www.linkedin.com/in/analyticapro/))
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [AnalyticaPROLLC@gmail.com](mailto:AnalyticaPROLLC@gmail.com)  
+- **Email:** [KitVine.Analytics@gmail.com](mailto:KitVine.Analytics@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/analyticapro](https://www.linkedin.com/in/analyticapro/)  
 - **Website:** [analyticaprollc.github.io](https://analyticaprollc.github.io/)  
 - **GitHub:** [github.com/analyticaprollc](https://github.com/analyticaprollc)
 
 ---
 
-✨ Let's connect and build something smart together!
+⚡ Let’s connect and turn your business data into actionable growth!
